@@ -46,7 +46,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://www.youtube.com/roadsidecoder">
+          <Link href="https://youtu.be/UbXpRv5ApKA?si=4LiSQZqfxn6ebySF">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
